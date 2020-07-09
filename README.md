@@ -1,4 +1,7 @@
 # Ping-Pong-Game-JS
+<img src="https://img.shields.io/github/issues/parikshit223933/Ping-Pong-Game-JS"> <img src="https://img.shields.io/badge/Dev-Complete-brightgreen">
+
+(https://parikshit223933.github.io/Ping-Pong-Game-JS/)
 > This is a very basic version of a popular game "Ping Pong". Created using javascript and playable on laptops and desktops.
 # Instructions
 1. press enter on each prompt and to start the game.
